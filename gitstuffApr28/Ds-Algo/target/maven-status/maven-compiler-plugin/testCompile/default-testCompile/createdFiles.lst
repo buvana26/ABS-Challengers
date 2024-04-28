@@ -1,0 +1,8 @@
+dsalgo_webdriver_manager\DriverManager.class
+testrunner\TestRunner.class
+dsalgo_stepdefinition\DSalgoHomePage.class
+dsalgo_utilities\LoggerLoad.class
+dsalgoPOM\GetStartedPage.class
+dsalgo_stepdefinition\DSalgoGetStartedPage.class
+dsalgoPOM\HomePage.class
+dsalgo_stepdefinition\TestRunner.class
